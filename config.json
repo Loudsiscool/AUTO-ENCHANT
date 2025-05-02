@@ -1,0 +1,13 @@
+{
+    "Name": "Jinmax's BGSI Auto Reroll Macro",
+    "Description": "Auto Enchant Until Team V",
+    "Author": "JINMAX",
+    "Version": "1.0",
+    "Image": "https://i.ibb.co/sJQ64RKb/Special-Enchants.webp",
+    "Tags": {
+        "Resolution": "Full Res Support",
+        "Type": "AHK"
+    },
+    "Main": "Main.ahk",
+    "MangoID": "Jinxmaxs50Enchant"
+}
