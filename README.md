@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1342045511175376962/1366059389576024114/Bgs-logo.png?ex=680f9172&is=680e3ff2&hm=0faf16f60b15266b60ea1499f57755f55bec5b7304ef365a1eb7f9f22621493d&" width="500"/>
+  <img src="https://i.ibb.co/Kphj5FNJ/Bgs-logo.png" width="500"/>
 </p>
 <p align="center">
 DO NOT DELETE ANY FILES OR FOLDERS INCLUDED WITH THE DOWNLOAD
